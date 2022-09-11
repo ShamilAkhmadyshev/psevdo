@@ -50,7 +50,7 @@ margin: 163px 0 0 320px;
 }
 
 .top-list li{
-	background: url(/img/check_icon.png) 0 8px no-repeat;
+	background: url(img/check_icon.png) 0 8px no-repeat;
 	padding-left: 30px;
 	
 	white-space: nowrap;
@@ -79,7 +79,7 @@ max-width: 420px;
 
 .top-list li:nth-child(2):hover{
 	color: red;
-	background: url(/img/check_icon\ \(1\).png) 0 8px no-repeat;
+	background: url(img/check_icon\ \(1\).png) 0 8px no-repeat;
 	
 }
 
@@ -105,7 +105,7 @@ color: #ffffff;
 text-transform: uppercase;
 }
 .button span{
-	background: url(/img/Shape_2\ \(1\).png) right no-repeat;
+	background: url(img/Shape_2\ \(1\).png) right no-repeat;
 	padding-right: 30px;
 }
 
